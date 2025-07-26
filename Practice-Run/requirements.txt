@@ -1,0 +1,4 @@
+Flask==2.3.3
+elasticsearch==8.11.1
+sentence-transformers==2.2.2
+numpy==1.24.3

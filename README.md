@@ -1,7 +1,7 @@
 # PyOhio Keynote
 This repository contains code, slides, and resources for the 2025 PyOhio Keynote, “The right vibe: the role of community in the age of AI”. This talk examines the increasing demand for robust programming communities in response to the growing prevalence of AI tools.  
 
-The code contained in this repository was generated using Windsurf and Claude 3.7 Sonnet.
+The code contained in this repository was generated using Windsurf and Claude 4.0.
 
 ## Resources
 - [Why can't programmers program?](https://blog.codinghorror.com/why-cant-programmers-program/)
