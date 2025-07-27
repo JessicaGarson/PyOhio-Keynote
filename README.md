@@ -8,7 +8,7 @@ The code contained in this repository was generated using Windsurf and Claude 4.
 Can you create a straightforward Flask app that displays 'Hello PyOhio'? I'd like this to have a modern look.
 
 ### Demo 2
-Can you expand this application to use vector search with Elasticsearch. I have already set environment variables in my terminal for ELASTICSEARCH_HOST and ELASTICSEARCH_API_KEY?
+Can you expand this application to use vector search with Elasticsearch. I have already set environment variables in my terminal for ELASTICSEARCH_HOST and ELASTICSEARCH_API_KEY.
 
 ## Resources
 - [Why can't programmers program?](https://blog.codinghorror.com/why-cant-programmers-program/)
